@@ -9,7 +9,7 @@ Analysis:
 
 ->Extracted the raw data and transformed it by cleaning it, by removing removing null and duplicate values.
 
-->Selecting 6 KPIs with the help of analyzing raw data from Pivot table which is key in supporting to make story for our end objective.
+->Selected 6 KPIs with the help of analyzing raw data from Pivot table which is key in supporting to make story for our end objective.
 
 ->Analyzed the key factors that are responsible for Employees attrition.
 
